@@ -6,7 +6,7 @@
 
 .heatmap-container {
   display: grid;
-  grid-template-columns: repeat(7, 1fr); /* Default for larger screens */
+  grid-template-columns: repeat(7, 1fr);
   gap: 2px;
   justify-content: center;
   justify-items: center;
@@ -42,7 +42,7 @@
 
 .all-months-container {
   display: grid;
-  grid-template-columns: repeat(6, 1fr); /* Default for larger screens */
+  grid-template-columns: repeat(6, 1fr);
   gap: 15px;
   padding: 15px;
 }
